@@ -1,0 +1,2 @@
+include ':app', ':swraprefresh', ':slidingmenu'
+include ':sliding_library'
